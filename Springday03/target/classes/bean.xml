@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- spring对bean的管理细节 -->
+
+    <!-- 第一种：使用默认构造函数创建
+            在spring的配置文件中使用bean标签，配以id和class的属性，且没有其他属性和标签时。
+            <bean id="accountService" class="com.impl.AccountServiceImpl"/>
+     -->
+
+
+    <!-- 第二种：使用普通工厂中的方法创建对象，使用某个类中的方法创建对象
+        <bean id="instanceFactory" class="com.factory.InstanceFactory"/>
+        <bean id="accountService" factory-bean="instanceFactory" factory-method="getAccount"/>
+     -->
+
+
+    <!-- 第三种：使用工厂中的静态方法创建对象（使用某个类中的静态方法创建对象并存入spring容器）
+        <bean id="accountService" class="com.factory.StaticFactory" factory-method="getAccount"/>
+    -->
+
+    <!-- bean的作用范围调整
+        bean的scope属性：
+            作用：用于指定bean的作用范围
+            取值：
+                singleton：单例的
+                prototype：多例的
+                request：作用于web应用的请求范围
+                session：作用于web应用的会话范围
+                global-session：作用于集群环境的会话范围（全局会话范围），当不是集群环境时，同上
+        <bean id="accountService" class="com.impl.AccountServiceImpl" scope="prototype"/>
+     -->
+
+    <!-- bean对象的生命周期
+        单例对象：
+            出生：当容器创建时，对象出生
+            活着：只要容器还在，容器一直活着
+            死亡：容器销毁，对象消亡
+            总结：单例对象的生命周期和容器相同
+        多例对象：
+            出生：
+            活着：
+            死亡：
+     -->
+    <bean id="accountService" class="com.impl.AccountServiceImpl"
+          scope="prototype" init-method="initAccount" destroy-method="destroyAccount"/>
+</beans>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="386cafa0-375d-435a-ab3a-f295af29f636" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XEK9fC4bxwxnhd08BBndMWZFG6" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/wz/cglib" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IdeaSpace\Springday10\src\main\java\com\wz\cglib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wz.cglib.Client" />
+      <module name="Springday10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wz.cglib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wz.proxy.Client" />
+      <module name="Springday10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wz.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="386cafa0-375d-435a-ab3a-f295af29f636" name="Default Changelist" comment="" />
+      <created>1580605663906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580605663906</updated>
+      <workItem from="1580605666000" duration="7950000" />
+      <workItem from="1580628624594" duration="5999000" />
+      <workItem from="1580720187603" duration="856000" />
+      <workItem from="1580782301634" duration="13000" />
+      <workItem from="1580786695780" duration="19000" />
+      <workItem from="1580787048935" duration="23000" />
+      <workItem from="1580790836426" duration="50000" />
+      <workItem from="1580791647858" duration="402000" />
+      <workItem from="1580792699909" duration="13000" />
+      <workItem from="1580793363972" duration="27000" />
+      <workItem from="1580793945517" duration="5000" />
+      <workItem from="1580794992302" duration="12000" />
+      <workItem from="1580795018376" duration="53000" />
+      <workItem from="1580795112150" duration="5000" />
+      <workItem from="1580800280777" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="378" y="236" width="785" height="295" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1580630950264">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="378" y="236" width="785" height="295" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1366.768@0.0.1366.768" timestamp="1580630950264" />
+    <state x="488" y="103" key="#com.intellij.ide.util.MemberChooser" timestamp="1580606760351">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="103" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1580606760351" />
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1580637676351">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1580637676351" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1580637676351">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1580637676351" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1580637676351">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1580637676351" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1580637676351">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1580637676351" />
+    <state x="77" y="29" width="1170" height="710" key="SettingsEditor" timestamp="1580633986370">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="77" y="29" width="1170" height="710" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1580633986370" />
+  </component>
+</project>

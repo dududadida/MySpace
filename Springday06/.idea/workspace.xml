@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45828a9f-d3c0-4443-af88-10fe99c20cb1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1X0TPS2Y9KxL3byzgS85F7B9Y4P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="JUnit.AccountServiceTest.testFindAll">
+    <configuration name="AccountServiceTest.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Springday06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dududadida.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dududadida.test" />
+      <option name="MAIN_CLASS_NAME" value="com.dududadida.test.AccountServiceTest" />
+      <option name="METHOD_NAME" value="testDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Springday06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dududadida.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dududadida.test" />
+      <option name="MAIN_CLASS_NAME" value="com.dududadida.test.AccountServiceTest" />
+      <option name="METHOD_NAME" value="testFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest.testFindOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Springday06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dududadida.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dududadida.test" />
+      <option name="MAIN_CLASS_NAME" value="com.dududadida.test.AccountServiceTest" />
+      <option name="METHOD_NAME" value="testFindOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest.testSave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Springday06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dududadida.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dududadida.test" />
+      <option name="MAIN_CLASS_NAME" value="com.dududadida.test.AccountServiceTest" />
+      <option name="METHOD_NAME" value="testSave" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Springday06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dududadida.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dududadida.test" />
+      <option name="MAIN_CLASS_NAME" value="com.dududadida.test.AccountServiceTest" />
+      <option name="METHOD_NAME" value="testUpdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AccountServiceTest.testFindAll" />
+        <item itemvalue="JUnit.AccountServiceTest.testDelete" />
+        <item itemvalue="JUnit.AccountServiceTest.testUpdate" />
+        <item itemvalue="JUnit.AccountServiceTest.testSave" />
+        <item itemvalue="JUnit.AccountServiceTest.testFindOne" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45828a9f-d3c0-4443-af88-10fe99c20cb1" name="Default Changelist" comment="" />
+      <created>1580181987158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580181987158</updated>
+      <workItem from="1580181988896" duration="8823000" />
+      <workItem from="1580262398382" duration="5750000" />
+      <workItem from="1580270055961" duration="990000" />
+      <workItem from="1580281491086" duration="374000" />
+      <workItem from="1580281886125" duration="57000" />
+      <workItem from="1580282031343" duration="28000" />
+      <workItem from="1580440704760" duration="1545000" />
+      <workItem from="1580559372925" duration="66000" />
+      <workItem from="1580559487905" duration="650000" />
+      <workItem from="1580801578281" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="77" key="#com.intellij.ide.util.MemberChooser" timestamp="1580196697552">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="77" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1580196697552" />
+    <state x="318" y="312" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1580198365291">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="318" y="312" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.768@0.0.1366.768" timestamp="1580198365291" />
+    <state width="1323" height="158" key="GridCell.Tab.0.bottom" timestamp="1580445540746">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="158" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1580445540746" />
+    <state width="1323" height="158" key="GridCell.Tab.0.center" timestamp="1580445540746">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="158" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1580445540746" />
+    <state width="1323" height="158" key="GridCell.Tab.0.left" timestamp="1580445540746">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="158" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1580445540746" />
+    <state width="1323" height="158" key="GridCell.Tab.0.right" timestamp="1580445540746">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="158" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1580445540746" />
+    <state x="454" y="102" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580265266660">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="454" y="102" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.768@0.0.1366.768" timestamp="1580265266660" />
+  </component>
+</project>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19187f19-c0b8-4383-9e7c-dd1a79e49316" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XCIaJqMQ6gpP3RiEiYHx3UqcY1" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dududadida.service.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IdeaSpace\Springday9\src\main\resources" />
+      <recent name="F:\IdeaSpace\Springday9\src\test\java\com\dududadida" />
+      <recent name="F:\IdeaSpace\Springday9\src\main\java\com\dududadida" />
+      <recent name="F:\IdeaSpace\Springday9\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AccountServiceTest.testTransfer">
+    <configuration name="AccountServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Springday09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dududadida.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dududadida.test" />
+      <option name="MAIN_CLASS_NAME" value="com.dududadida.test.AccountServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest.testTransfer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Springday09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dududadida.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dududadida.test" />
+      <option name="MAIN_CLASS_NAME" value="com.dududadida.test.AccountServiceTest" />
+      <option name="METHOD_NAME" value="testTransfer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AccountServiceTest.testTransfer" />
+        <item itemvalue="JUnit.AccountServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19187f19-c0b8-4383-9e7c-dd1a79e49316" name="Default Changelist" comment="" />
+      <created>1580543711070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580543711070</updated>
+      <workItem from="1580543713031" duration="12237000" />
+      <workItem from="1580605060561" duration="1254000" />
+      <workItem from="1580634736905" duration="2052000" />
+      <workItem from="1580637680148" duration="2742000" />
+      <workItem from="1580721080306" duration="343000" />
+      <workItem from="1580781760857" duration="256000" />
+      <workItem from="1580782065607" duration="8000" />
+      <workItem from="1580782373331" duration="62000" />
+      <workItem from="1580782490221" duration="4192000" />
+      <workItem from="1580787021687" duration="22000" />
+      <workItem from="1580787172284" duration="998000" />
+      <workItem from="1580788496516" duration="990000" />
+      <workItem from="1580792070979" duration="891000" />
+      <workItem from="1580793433968" duration="2388000" />
+      <workItem from="1580796165740" duration="2294000" />
+      <workItem from="1580799242558" duration="855000" />
+      <workItem from="1580800229967" duration="153000" />
+      <workItem from="1580801315572" duration="334000" />
+      <workItem from="1580801692963" duration="74000" />
+      <workItem from="1580954314474" duration="128000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="454" y="236" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1580545583246">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="454" y="236" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1366.768@0.0.1366.768" timestamp="1580545583246" />
+    <state x="488" y="103" key="#com.intellij.ide.util.MemberChooser" timestamp="1580636370409">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="103" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1580636370409" />
+    <state x="413" y="133" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580558956105">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="133" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1580558956105" />
+    <state width="1323" height="196" key="GridCell.Tab.0.bottom" timestamp="1580801766593">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="196" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1580801766593" />
+    <state width="1323" height="196" key="GridCell.Tab.0.center" timestamp="1580801766593">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="196" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1580801766593" />
+    <state width="1323" height="196" key="GridCell.Tab.0.left" timestamp="1580801766592">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="196" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1580801766592" />
+    <state width="1323" height="196" key="GridCell.Tab.0.right" timestamp="1580801766593">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="196" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1580801766593" />
+    <state x="213" y="42" key="Maven.ArtifactSearchDialog" timestamp="1580549532173">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="213" y="42" key="Maven.ArtifactSearchDialog/0.0.1366.768@0.0.1366.768" timestamp="1580549532173" />
+    <state x="186" y="29" width="1104" height="710" key="SettingsEditor" timestamp="1580636985435">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="186" y="29" width="1104" height="710" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1580636985435" />
+    <state x="57" y="88" key="new project wizard" timestamp="1580605661363">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="57" y="88" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1580605661363" />
+  </component>
+</project>

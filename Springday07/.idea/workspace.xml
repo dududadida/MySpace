@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c606f627-a2bb-40de-83cc-f5e44d4f4b49" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1X3LUahWSDuOym9dwIuijqf77gS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/dududadida" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dududadida.test" />
+      <recent name="test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IdeaSpace\Springday07\src\main\java\com\dududadida" />
+      <recent name="F:\IdeaSpace\Springday07\src\main\resources" />
+      <recent name="F:\IdeaSpace\Springday07\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AccountServiceTest.testFindAll">
+    <configuration name="AccountServiceTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Springday07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dududadida.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dududadida.test" />
+      <option name="MAIN_CLASS_NAME" value="com.dududadida.test.AccountServiceTest" />
+      <option name="METHOD_NAME" value="testFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest.testSave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Springday07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dududadida.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dududadida.test" />
+      <option name="MAIN_CLASS_NAME" value="com.dududadida.test.AccountServiceTest" />
+      <option name="METHOD_NAME" value="testSave" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AccountServiceTest.testFindAll" />
+        <item itemvalue="JUnit.AccountServiceTest.testSave" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c606f627-a2bb-40de-83cc-f5e44d4f4b49" name="Default Changelist" comment="" />
+      <created>1580269847823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580269847823</updated>
+      <workItem from="1580269850413" duration="788000" />
+      <workItem from="1580279668405" duration="3397000" />
+      <workItem from="1580284666471" duration="94000" />
+      <workItem from="1580284799983" duration="9000" />
+      <workItem from="1580558909980" duration="312000" />
+      <workItem from="1580782460224" duration="6000" />
+      <workItem from="1580787422831" duration="566000" />
+      <workItem from="1580788206528" duration="249000" />
+      <workItem from="1580800266774" duration="7000" />
+      <workItem from="1580801588791" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="142" key="FileChooserDialogImpl" timestamp="1580281484298">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="142" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1580281484298" />
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1580284222869">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1580284222869" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1580284222869">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1580284222869" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1580284222869">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1580284222869" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1580284222869">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1580284222869" />
+    <state x="186" y="29" key="SettingsEditor" timestamp="1580282408813">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="186" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1580282408813" />
+  </component>
+</project>
